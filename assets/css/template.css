@@ -15197,3 +15197,7 @@ div.job_listings .load_more_jobs.loading:hover, div.job_listings .load_more_jobs
         display: none !important;
     }
 }
+.fastplussearch{
+    background-color: #ff7900!important;
+    color: #FFFFFF;
+}
