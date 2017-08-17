@@ -6960,7 +6960,7 @@ body.is-boxed {
 }
 
 .header-v1 {
-    padding: 25px 0px;
+    padding: 20px 0px;
     background: #00171f;
 }
 
@@ -15201,3 +15201,18 @@ div.job_listings .load_more_jobs.loading:hover, div.job_listings .load_more_jobs
     background-color: #ff7900!important;
     color: #FFFFFF;
 }
+.mfp-close{
+	background-color: #ff7900!important;
+}
+.registerbutton{
+	background-color: #ff7900!important;
+	color: #FFFFFF;
+}
+.mfp-content{
+	margin-top:50px!important;
+}
+/*
+.tp-bgimg.defaultimg {
+    filter: brightness(50%)!important;
+}
+*/
